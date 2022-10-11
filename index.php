@@ -60,6 +60,5 @@ foreach($table as $friend){
     echo $friend['firstname'] . ' ' . $friend['lastname'] . '<br>';
 }
 ?>
-
 </body>
 </html>
